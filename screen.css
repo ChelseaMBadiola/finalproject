@@ -57,6 +57,10 @@ body {
  background-color: #D8D8D8
 }
 
+img {
+  display: block
+}
+
 h1 {
   color: #FFFFFF
 }
